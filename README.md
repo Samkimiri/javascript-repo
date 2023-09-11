@@ -1,7 +1,10 @@
 # Demo
 Some description.demo
-## Sub topic chosen
+# for loop
 
-let i= 5;
+let i= 0;
 
-for(;i<=5;i++);
+for(;i<=5;i++)
+{
+    console.log(i);
+}
